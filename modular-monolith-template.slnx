@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Aspire/Aspire.csproj" />
+  <Project Path="src/Hosts/Notifications.Api/Notifications.Api.csproj" />
+  <Project Path="src/Modules/Notifications/Notifications.Contracts/Notifications.Contracts.csproj" />
+  <Project Path="src/Modules/Notifications/Notifications.Module/Notifications.Module.csproj" />
+</Solution>
